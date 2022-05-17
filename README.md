@@ -12,4 +12,4 @@
 #### MongoDB: https://youtu.be/lWMemPN9t6Q
 
 
-## Diagrama
+## Diagramas
